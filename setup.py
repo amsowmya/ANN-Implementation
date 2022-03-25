@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 setup(
     name="src",
     version="0.0.2",
-    author="sowmya",
+    author="Sowmya A M",
     description="A small package for ANN implimentation",
     long_description=long_description,
     long_description_content_type="text/markdown",
