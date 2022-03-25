@@ -3,3 +3,7 @@ pandas
 numpy
 seaborn
 matplotlib
+PyYAML
+
+## Local package installation
+-e . ### <<< to install local packages defined in setup.py
